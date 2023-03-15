@@ -5,3 +5,5 @@
 2. git clone
 3. cd git_gb_2022
 4. git commit -am 'изменения  в readme'
+5. проверяем git log
+6. конец
